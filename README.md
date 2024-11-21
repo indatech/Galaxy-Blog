@@ -1,1 +1,1 @@
-# Galaxy-Blog
+#Creado con fines educativos.
