@@ -1,1 +1,1 @@
-#Creado con fines educativos.
+Creado con fines educativos.
